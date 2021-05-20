@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+body{
+
+    background: rgba(231, 190, 160, 0.671);
+
+}
+
+#miniatura{
+    
+    border: 3px solid rgb(10, 26, 95);
+    height: 200px;
+    width: 400px;
+    float: right;
+    margin-right: 20px;
+
+}
+
+#destino{
+
+    background: rgba(13, 35, 83, 0.548);
+    height: 300px;
+    width: 500px;
+    float: left;
+    margin: 5px 5px;
+
+}
+
+#origen{
+
+    background: rgba(13, 35, 83, 0.548);
+    height: 300px;
+    width: 500px;
+    float: left;
+    margin: 5px 5px;
+
+}
+
+div>img{
+
+    height: 150px;
+    width: 250px;
+
+}
+
+td>div{
+
+    height: 150px;
+    width: 250px;
+    border: 2px solid white;
+    background: rgba(255, 255, 255, 0.137);
+
+}
+
+.contenedor{
+
+    height: 700px;
+    width: 600px;
+    margin-left: 20px;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: rgb(6, 0, 87);
+    font-weight: bold;
+    margin-right: 30px;
+    float: right;
+    padding: 5px;
+
+}
+
+a:hover{
+
+    border-radius: 28px 28px 28px 28px;
+    background: #0212a3;
+	color: rgb(255, 255, 255);
+	transition: background 1s, color 1s;
+
+}

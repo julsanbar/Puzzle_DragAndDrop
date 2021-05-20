@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body{
+
+    background: rgba(231, 190, 160, 0.671);
+
+}
+
+h3,p{
+
+    text-align: center;
+    margin: 6% 31%;
+    width: 500px;
+    background: rgba(0, 0, 95, 0.719);
+    padding: 2% 0;
+    color: white;
+    border-radius: 28px 28px 28px 28px;
+
+}
+
+ul{
+
+    border-radius: 28px 28px 28px 28px;
+    background: rgba(255, 255, 255, 0.534);
+    list-style: circle;
+    width: 12%;
+    height: auto;
+    padding: 3% 3%;
+    margin-left: 42%;
+
+}
+
+li{
+
+    margin: 10% 0;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: rgb(6, 0, 87);
+    font-weight: bold;
+    margin-right: 30px;
+    padding: 5px;
+
+}
+
+a:hover{
+
+    border-radius: 28px 28px 28px 28px;
+    background: #0212a3;
+	color: rgb(255, 255, 255);
+	transition: background 1s, color 1s;
+
+}
